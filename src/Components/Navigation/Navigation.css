@@ -1,0 +1,126 @@
+.navigation {
+  height: 104px;
+  background: #1a1a1a;
+}
+
+/*SECTION 1*/
+.navigation .section-1{
+    margin-left: 2rem;
+}
+.navigation .section-1 .eclipse-1{
+    margin-top: 1rem;
+    width: 73.05px;
+    height: 73.05px;
+    border-radius: 50%;
+    background: #B38138;
+}
+.navigation .section-1 .eclipse-1 .abrev{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    text-align: center;
+
+    color: #E2CFB1;
+}
+.navigation .section-1 .eclipse-2{
+    width: 11.94px;
+    height: 11.22px;
+    border-radius: 50%;
+    background: #B38138;
+    margin-left: 4.5rem;
+    margin-top: -4rem;
+}
+.navigation .section-1 .eclipse-3{
+    width: 11.94px;
+    height: 11.22px;
+    border-radius: 50%;
+    background: #E5E5E5;
+    margin-left: 3.5rem;
+    margin-top: 0.5rem;
+}
+.navigation .section-1 .companyName{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 27px;
+    line-height: 32px;
+    color: #B28138;
+    margin-top: 1.5rem;
+}
+.navigation .section-1 .products{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15.5px;
+    line-height: 18px;
+    color: #E2CFB1;
+}
+
+/*SECTION 2*/
+.navigation .section-2{
+    margin-left: 6rem;
+}
+.navigation .section-2 .searchBtn{
+    margin-top: 1rem;
+    margin-left: -1.9rem;
+    width: 130px;
+    height: 55px;
+    left: 888.78px;
+    top: 31.47px;
+    border: none;
+
+    background: linear-gradient(272.23deg, #BC8430 1.13%, rgba(204, 155, 82, 0.88) 90.03%);
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #FFFFFF;
+}
+
+/*SECTION 3*/
+.navigation .section-3 .divider{
+    border-right: 1px solid  white;
+    height: 6.5rem;
+}
+.navigation .section-3 .signInBtn{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-align: end;
+    margin-top: 2rem !important;
+}
+.navigation .section-3 .myCart{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: 2rem !important;
+}
+.navigation .section-3 .eclipse-4{
+    width: 19.07px;
+    height: 20.29px;
+    border-radius: 50%;
+    margin-top: -2.4rem;
+    margin-left: 1rem;
+
+    background: #B38138;
+}
+.navigation .section-3 .eclipse-4 .number{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
