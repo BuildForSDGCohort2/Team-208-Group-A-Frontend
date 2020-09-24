@@ -60,6 +60,7 @@
 /*SECTION 2*/
 .navigation .section-2{
     margin-left: 6rem;
+    margin-top: 0rem;
 }
 .navigation .section-2 .searchBtn{
     margin-top: 1rem;
@@ -82,6 +83,10 @@
 }
 
 /*SECTION 3*/
+.navigation .section-3{
+    background: transparent;
+    margin-top: 0rem;
+}
 .navigation .section-3 .divider{
     border-right: 1px solid  white;
     height: 6.5rem;

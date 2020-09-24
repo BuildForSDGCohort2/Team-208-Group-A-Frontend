@@ -1,0 +1,297 @@
+.homepage .section-2 {
+  margin-top: 2rem;
+}
+.homepage .section-2 .categoryName {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 19px;
+  text-align: center;
+  margin-top: 1rem;
+
+  color: #000000;
+}
+.homepage .section-2 .eclipse-1 {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+}
+.homepage .section-2 .eclipse-1 img{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    margin-left: 1rem;
+    object-fit: cover;
+  }
+
+.homepage .section-2 .eclipse-2 {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+}
+.homepage .section-2 .eclipse-2 img{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    margin-left: 1rem;
+    object-fit: cover;
+  }
+.homepage .section-2 .eclipse-3 {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+}
+.homepage .section-2 .eclipse-3 img{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    margin-left: 1rem;
+    object-fit: cover;
+  }
+.homepage .section-2 .eclipse-4 {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+}
+.homepage .section-2 .eclipse-4 img{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    margin-left: 1rem;
+    object-fit: cover;
+  }
+.homepage .section-2 .eclipse-5 {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+}
+.homepage .section-2 .eclipse-5 img{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    margin-left: 1rem;
+    object-fit: cover;
+  }
+.homepage .section-2 .eclipse-6 {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+}
+.homepage .section-2 .eclipse-6 img{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    margin-left: 1rem;
+    object-fit: cover;
+  }
+
+/*SECTION THREE*/
+.homepage .section-3 {
+  height: 420px;
+  margin-top: 3rem;
+
+  background: #efefef;
+}
+.homepage .section-3 .productName {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 78px;
+  margin-top: 2rem;
+  /* identical to box height */
+
+  color: #000000;
+}
+.homepage .section-3 .productDesc {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 23px;
+  margin-top: 1rem;
+
+  color: #000000;
+}
+.homepage .section-3 .productPrice {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 31px;
+  line-height: 38px;
+  margin-top: 1rem;
+  /* identical to box height */
+
+  color: #000000;
+}
+.homepage .section-3 .addToCartBtn {
+  width: 201px;
+  height: 60px;
+  margin-top: 2rem !important;
+
+  background: #c8ad86;
+  border-radius: 50px;
+  border: none;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 30px;
+
+  color: #ffffff;
+
+  /* Inside Auto Layout */
+
+  flex: none;
+  order: 0;
+  align-self: center;
+  flex-grow: 0;
+  margin: 10px 0px;
+}
+.homepage .section-3 .productImage img {
+  width: 496px;
+  height: 370px;
+  margin-top: 4rem;
+  filter: drop-shadow(10px 18px 4px rgba(0, 0, 0, 0.17));
+}
+.homepage .section-3 .eclipse {
+  width: 345px;
+  height: 343px;
+  border-radius: 50%;
+  margin-top: -25rem;
+  margin-left: 11rem;
+
+  background: rgba(182, 142, 84, 0.68);
+}
+
+/*SECTION FOUR*/
+.homepage .section-4 {
+  margin-top: 3rem;
+  padding-right: 20rem;
+  padding-left: 20rem;
+}
+.homepage .section-4 .forYou {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  margin-left: 2rem;
+
+  color: #000000;
+}
+.homepage .section-4 .categoryName {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 33px;
+  margin-left: 2rem;
+  margin-bottom: 1rem;
+  /* identical to box height */
+
+  color: #000000;
+}
+.homepage .section-4 .productCard {
+  width: 282px;
+  height: 388px;
+  margin-bottom: 2rem;
+  margin-left: 2rem;
+
+  background: #f7f7f7;
+  box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 13px;
+}
+.homepage .section-4 .productCard .productImage img {
+  width: 282px;
+  height: 183.99px;
+  border-radius: 13px;
+  object-fit: cover;
+}
+.homepage .section-4 .productCard .discount {
+  width: 72px;
+  height: 39px;
+  margin-top: -11rem;
+  margin-left: 1rem;
+
+  background: #a3732b;
+  border-radius: 8px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+.homepage .section-4 .productCard .productName {
+  margin-top: 10rem;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 27px;
+  line-height: 28px;
+
+  color: #000000;
+}
+.homepage .section-4 .productCard .productAvailability {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 21px;
+  margin-top: 1rem;
+  /* identical to box height */
+
+  color: #000000;
+}
+.homepage .section-4 .productCard .currentPrice {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 21px;
+  margin-top: 1rem;
+  /* identical to box height */
+
+  color: #000000;
+}
+.homepage .section-4 .productCard .pastPrice {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  margin-top: 1rem;
+  text-align: end;
+  /* identical to box height */
+
+  color: #000000;
+}
+.homepage .section-4 .productCard .addToCartBtn {
+  width: 156px;
+  height: 35px;
+
+  margin-top: 1rem;
+
+  background: linear-gradient(
+    270deg,
+    rgba(191, 132, 47, 0.87) -3.21%,
+    rgba(220, 162, 78, 0.65) 55.36%
+  );
+  border-radius: 15px;
+  border: none;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 23px;
+
+  color: #ecf0f1;
+}
