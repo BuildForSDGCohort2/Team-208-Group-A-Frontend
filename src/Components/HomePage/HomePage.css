@@ -17,74 +17,74 @@
   height: 130px;
   border-radius: 50%;
 }
-.homepage .section-2 .eclipse-1 img{
-    width: 130px;
-    height: 130px;
-    border-radius: 50%;
-    margin-left: 1rem;
-    object-fit: cover;
-  }
+.homepage .section-2 .eclipse-1 img {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  margin-left: 1rem;
+  object-fit: cover;
+}
 
 .homepage .section-2 .eclipse-2 {
   width: 130px;
   height: 130px;
   border-radius: 50%;
 }
-.homepage .section-2 .eclipse-2 img{
-    width: 130px;
-    height: 130px;
-    border-radius: 50%;
-    margin-left: 1rem;
-    object-fit: cover;
-  }
+.homepage .section-2 .eclipse-2 img {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  margin-left: 1rem;
+  object-fit: cover;
+}
 .homepage .section-2 .eclipse-3 {
   width: 130px;
   height: 130px;
   border-radius: 50%;
 }
-.homepage .section-2 .eclipse-3 img{
-    width: 130px;
-    height: 130px;
-    border-radius: 50%;
-    margin-left: 1rem;
-    object-fit: cover;
-  }
+.homepage .section-2 .eclipse-3 img {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  margin-left: 1rem;
+  object-fit: cover;
+}
 .homepage .section-2 .eclipse-4 {
   width: 130px;
   height: 130px;
   border-radius: 50%;
 }
-.homepage .section-2 .eclipse-4 img{
-    width: 130px;
-    height: 130px;
-    border-radius: 50%;
-    margin-left: 1rem;
-    object-fit: cover;
-  }
+.homepage .section-2 .eclipse-4 img {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  margin-left: 1rem;
+  object-fit: cover;
+}
 .homepage .section-2 .eclipse-5 {
   width: 130px;
   height: 130px;
   border-radius: 50%;
 }
-.homepage .section-2 .eclipse-5 img{
-    width: 130px;
-    height: 130px;
-    border-radius: 50%;
-    margin-left: 1rem;
-    object-fit: cover;
-  }
+.homepage .section-2 .eclipse-5 img {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  margin-left: 1rem;
+  object-fit: cover;
+}
 .homepage .section-2 .eclipse-6 {
   width: 130px;
   height: 130px;
   border-radius: 50%;
 }
-.homepage .section-2 .eclipse-6 img{
-    width: 130px;
-    height: 130px;
-    border-radius: 50%;
-    margin-left: 1rem;
-    object-fit: cover;
-  }
+.homepage .section-2 .eclipse-6 img {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  margin-left: 1rem;
+  object-fit: cover;
+}
 
 /*SECTION THREE*/
 .homepage .section-3 {
@@ -274,6 +274,136 @@
   color: #000000;
 }
 .homepage .section-4 .productCard .addToCartBtn {
+  width: 156px;
+  height: 35px;
+
+  margin-top: 1rem;
+
+  background: linear-gradient(
+    270deg,
+    rgba(191, 132, 47, 0.87) -3.21%,
+    rgba(220, 162, 78, 0.65) 55.36%
+  );
+  border-radius: 15px;
+  border: none;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 23px;
+
+  color: #ecf0f1;
+}
+
+/*SECTION FIVE*/
+.homepage .section-5 {
+  margin-top: 3rem;
+  padding-right: 20rem;
+  padding-left: 20rem;
+}
+.homepage .section-5 .forYou {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  margin-left: 2rem;
+
+  color: #000000;
+}
+.homepage .section-5 .categoryName {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 33px;
+  margin-left: 2rem;
+  margin-bottom: 1rem;
+  /* identical to box height */
+
+  color: #000000;
+}
+.homepage .section-5 .productCard {
+  width: 282px;
+  height: 388px;
+  margin-bottom: 2rem;
+  margin-left: 2rem;
+
+  background: #f7f7f7;
+  box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 13px;
+}
+.homepage .section-5 .productCard .productImage img {
+  width: 282px;
+  height: 183.99px;
+  border-radius: 13px;
+  object-fit: cover;
+}
+.homepage .section-5 .productCard .discount {
+  width: 72px;
+  height: 39px;
+  margin-top: -11rem;
+  margin-left: 1rem;
+
+  background: #a3732b;
+  border-radius: 8px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+.homepage .section-5 .productCard .productName {
+  margin-top: 10rem;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 27px;
+  line-height: 28px;
+
+  color: #000000;
+}
+.homepage .section-5 .productCard .productAvailability {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 21px;
+  margin-top: 1rem;
+  /* identical to box height */
+
+  color: #000000;
+}
+.homepage .section-5 .productCard .currentPrice {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 21px;
+  margin-top: 1rem;
+  /* identical to box height */
+
+  color: #000000;
+}
+.homepage .section-5 .productCard .pastPrice {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  margin-top: 1rem;
+  text-align: end;
+  /* identical to box height */
+
+  color: #000000;
+}
+.homepage .section-5 .productCard .addToCartBtn {
   width: 156px;
   height: 35px;
 

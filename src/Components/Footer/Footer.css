@@ -1,0 +1,159 @@
+.footer{
+    padding-left: 18rem;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+.footer .contacts .eclipse-1 {
+  width: 73.05px;
+  height: 73.05px;
+  border-radius: 50%;
+  border: none;
+  margin-left: 2rem;
+
+  background: #b38138;
+
+  display: flex;
+  justify-content: center;
+}
+.footer .contacts .eclipse-1 .abrev {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 68px;
+  margin-top: -3px;
+  margin-left: 0.2rem;
+
+  color: #e2cfb1;
+}
+.footer .contacts .eclipse-2 {
+  width: 11.94px;
+  height: 11.94px;
+  border: none;
+  border-radius: 50%;
+  margin-top: 1.5rem;
+  margin-left: -0.5rem;
+
+  background: #cc9b52;
+}
+.footer .contacts .eclipse-3 {
+  width: 11.94px;
+  height: 11.94px;
+  border: none;
+  border-radius: 50%;
+
+  background: #b38138;
+}
+.footer .contacts .companyName {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 27px;
+  line-height: 32px;
+  margin-top: 0.8rem;
+  /* identical to box height */
+
+  color: #b28138;
+}
+.footer .contacts .products {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15.5px;
+  line-height: 18px;
+
+  color: #e2cfb1;
+}
+.footer .contacts .details {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  margin-top: 1rem;
+  margin-left: 2rem;
+
+  color: #000000;
+}
+
+.footer .topCities .title {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 23px;
+
+  color: #000000;
+}
+.footer .topCities .cities {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+
+  margin-top: 1rem;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.footer .categories .title {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 23px;
+
+  color: #000000;
+}
+.footer .categories .products {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+
+  margin-top: 1rem;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.footer .aboutUs .title {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+  
+    color: #000000;
+  }
+  .footer .aboutUs .details {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+  
+    margin-top: 1rem;
+    /* identical to box height */
+  
+    color: #000000;
+  }
+
+
+  .footer .socialMedia .title {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+  
+    color: #000000;
+  }
+  .footer .socialMedia .icons {
+    margin-top: 1rem;
+    /* identical to box height */
+  
+    color: #000000;
+  }
